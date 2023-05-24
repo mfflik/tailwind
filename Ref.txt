@@ -1,0 +1,2 @@
+https://javascript.plainenglish.io/create-a-react-app-from-scratch-in-2021-8e9948602e9c
+https://dev.to/ivadyhabimana/setup-tailwind-css-in-a-react-project-configured-from-scratch-a-step-by-step-guide-2jc8
