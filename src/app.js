@@ -1,14 +1,17 @@
 import React from "react";
 import "./app.css";
-import Button from "./components/button/button";
+import Button from "./components/Button/Button";
+import CustomButton from "./components/CustomButton/CustomButton";
+import Table from "./components/TableContents/Table";
 
 function App() {
   return (
     <div>
-      <h1 className="text-primary text-4xl font-bold">
-        Hello world! I am using React
-      </h1>
-      <Button/>
+      <Button />
+      <CustomButton color="secondary" size="sm" >
+        Click Me
+      </CustomButton>
+      <Table/>
     </div>
   );
 }
